@@ -160,8 +160,7 @@
     position: relative;
     margin-top: 46px;
     padding-top: 50%;
-    background: url('/asset/css/img/slider/chicago.jpg') top center / cover no-repeat;
-    
+    background: url('asset/css/img/slider/chicago.jpg') top center / cover no-repeat;
 }
 #slider .text-content{
     position: absolute;
