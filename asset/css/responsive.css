@@ -11,6 +11,9 @@
     .contact-form .form-control{
         padding: 15px;
     }
+    .font-size-btn{
+        font-size: 18px;
+    }
     #footer .socials-list{
         font-size: 30px;
     }
@@ -25,6 +28,7 @@
     #nav .subnav a{
         padding: 5px 12px;
     }
+
 }
 /* Tablet */
 @media(min-width: 740px) and (max-width: 1023px){
