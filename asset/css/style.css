@@ -52,6 +52,7 @@
      float: right !important;
  }
  .btn{
+    font-size: 16px;
     color: #fff;
     background-color: #000;
     text-decoration: none;
